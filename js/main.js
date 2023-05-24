@@ -82,9 +82,14 @@
 				</p>
 				<p class="mb-2">
 					<i class="fa fa-envelope-open me-3"></i>
-					balmeeki.info@gmail.com
+					balmeeki555575@gmail.com
 				</p>
 				<div class="d-flex pt-2">
+					<a
+						class="btn btn-outline-light btn-social"
+						href="https://www.facebook.com/profile.php?id=100063646762649">
+						<i class="fab fa-facebook-f"></i>
+					</a>
 					<a
 						class="btn btn-outline-light btn-social"
 						href="">
@@ -92,18 +97,13 @@
 					</a>
 					<a
 						class="btn btn-outline-light btn-social"
-						href="">
-						<i class="fab fa-facebook-f"></i>
+						href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnqDdrnMPDHcLfsRfJGfdTMVJKKgjnqXvwQDMLWfkmKbSNJXVpzjrcFZlJhQCNxVWmBwJB">
+						<i class="ion-ios-email"></i>
 					</a>
 					<a
 						class="btn btn-outline-light btn-social"
 						href="">
-						<i class="fab fa-youtube"></i>
-					</a>
-					<a
-						class="btn btn-outline-light btn-social"
-						href="">
-						<i class="fab fa-linkedin-in"></i>
+						<i class="fab fa-whatsapp"></i>
 					</a>
 				</div>
 			</div>
