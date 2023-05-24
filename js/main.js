@@ -184,7 +184,7 @@
 				<div
 					class="col-md-6 text-center text-md-start mb-3 mb-md-0">
 					Designed and Developed By
-					<a class="border-bottom" href="abhishek.html">
+					<a class="border-bottom" href="https://abhishek-adhikari-1.github.io/myportfolio/">
 						Abhishek Adhikari
 					</a>
 					<div class="d-inline-flex">
