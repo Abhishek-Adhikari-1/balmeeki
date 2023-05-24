@@ -31,7 +31,7 @@ html {
 	color: transparent;
 	-webkit-text-stroke: 1px #fff;
 	-webkit-background-clip: text;
-	background-image: url("/img/bg_for_text.png");
+	background-image: url("bg_for_text.png");
 	animation: bg_animation 25s linear infinite;
 }
 
