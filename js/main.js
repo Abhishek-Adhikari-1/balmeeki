@@ -192,21 +192,21 @@
 							class="btn btn-outline-light"
 							style="--color: #0000ff"
 							id="btn-abhi"
-							href="">
+							href="https://www.facebook.com/profile.php?id=100063712182245">
 							<i class="fab fa-facebook-f"></i>
 						</a>
 						<a
 							class="btn btn-outline-light"
 							style="--color: #ff0000"
 							id="btn-abhi"
-							href="">
+							href="https://www.instagram.com/unknown_account835/">
 							<i class="fab fa-instagram"></i>
 						</a>
 						<a
 							class="btn btn-outline-light"
 							style="--color: #00ff00"
 							id="btn-abhi"
-							href="">
+							href="https://wa.me/+9779811343299"">
 							<i class="fab fa-whatsapp"></i>
 						</a>
 					</div>
